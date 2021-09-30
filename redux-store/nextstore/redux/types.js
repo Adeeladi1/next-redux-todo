@@ -1,0 +1,5 @@
+export const SET_NAME = "SET_NAME"
+export const ADD ="ADD"
+export const DELETE ="DELETE"
+export const REMOVE ="REMOVE"
+export const COMPLETED ="COMPLETED"
